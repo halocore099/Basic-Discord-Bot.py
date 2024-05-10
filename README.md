@@ -24,6 +24,8 @@ These are
 
 >!dog                      | sends a random dog picture using an API.
 
+>!ping                     | sends the lactency it has between receiving the command and sending the response.
+
 (keep in mind the prefix '!' can be altered.)
 
 
